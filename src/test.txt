@@ -1,9 +1,9 @@
-fetch("https://kyfw.12306.cn/otn/confirmPassenger/confirmSingleForQueue", {
+fetch("https://www.npmjs.com/search?q=cheerio", {
   "headers": {
-    "accept": "application/json, text/javascript, */*; q=0.01",
+    "accept": "*/*",
     "accept-language": "zh-CN,zh;q=0.9",
     "cache-control": "no-cache",
-    "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+    "manifest-hash": "a411fb72bf186a3eeb3e",
     "pragma": "no-cache",
     "sec-ch-ua": "\"Google Chrome\";v=\"117\", \"Not;A=Brand\";v=\"8\", \"Chromium\";v=\"117\"",
     "sec-ch-ua-mobile": "?0",
@@ -12,10 +12,11 @@ fetch("https://kyfw.12306.cn/otn/confirmPassenger/confirmSingleForQueue", {
     "sec-fetch-mode": "cors",
     "sec-fetch-site": "same-origin",
     "x-requested-with": "XMLHttpRequest",
-    "cookie": "_uab_collina=169534644258485771105527; JSESSIONID=130FDE4CCC721DC8DB1DAA6EC4DB0F13; tk=SZgxnoR4qYQgx3SeNVMiFhP0lyRh8ANiDOX2iuEKeRMijw1w0; BIGipServerpool_passport=65274378.50215.0000; guidesStatus=off; highContrastMode=defaltMode; cursorStatus=off; route=6f50b51faa11b987e576cdb301e545c4; BIGipServerpassport=988283146.50215.0000; _jc_save_wfdc_flag=dc; _jc_save_toDate=2023-09-22; _jc_save_fromStation=%u5E7F%u5143%2CGYW; _jc_save_fromDate=2023-10-05; _jc_save_showIns=true; _jc_save_toStation=%u6210%u90FD%u4E1C%2CCMW; BIGipServerotn=2145911050.64545.0000; uKey=27371564d4a69efdc47b6cf59e64d642fd59765b62406a12c12730b4adfcfd34; fo=9eejt5423yv3vw3iCS5hoMTgXuHMI9aITr6QGwn_Cwg6pO6LVCmMKIH6KBwDMasfdEAERk4gFcw4sL-wkvowlpkdFlXrm_I0qH3UDmnsTZ7mdVwbWrQqHD8Ukp4oMMYG9182bhH3SldtWFGTf3bfzUMuWyx8a6jjerw4IK_Amomb_O_RAy6Gt70947M7JfBfl57NBk3ATehThr4y",
-    "Referer": "https://kyfw.12306.cn/otn/confirmPassenger/initDc",
+    "x-spiferack": "1",
+    "cookie": "__cfruid=7cfdfc143c1229a1e04ab9c8f3b9a5d30fbd7503-1695346799; __cf_bm=o7BG4ETZXOQGI5S_87gPLHgOL9EM_jBl6VgvCr9XXfE-1695349710-0-AYzGMVPkY+pnGQ3Xi6z3A0Hj9yLMyEKJgDuDHP24nXh4iI9UE14YcJQFsLb0GbczJTIbWD777Zcfb1NrjXXVeX0=",
+    "Referer": "https://www.npmjs.com/package/cheerio",
     "Referrer-Policy": "strict-origin-when-cross-origin"
   },
-  "body": "passengerTicketStr=3%2C0%2C1%2C%E7%8E%8B%E5%B9%B3%2C1%2C5108***********138%2C199****1022%2CN%2Cfef4bde67b73e782f0a46f5b8c0833e3d34c33372995fa36ef72569aac7e38414f8f14f277e7c46d3a567adc1a1a38a52acf0b34b9f99091b12e4bf5eb43907ee849a3953e992f52ab3d9f47c172297f_3%2C0%2C1%2C%E4%BC%8D%E4%B8%BD%E5%8D%8E%2C1%2C5138***********223%2C199****1106%2CN%2Cadadc7c2b68aa252386449bd22ee5169a2b13c5c55e826b6c40f1bf38f246d44b54fc75cfe27f4e089377425550bb6026b5cf4adbeddb297c47fe43c3c0af695dcf0a894ec03ab518d877c0ff6cdd335_3%2C0%2C1%2C%E7%8E%8B%E4%BF%AA%E8%93%89%2C1%2C5108***********141%2C180****9827%2CN%2Cd3c68b6cc0182df4d19c4efb2f7d0cbfed4ca5f040ecde1c6269eb767b69f0e032fdb3385f7c6185d5c4238a21801084c94c0b2474fd745d9137225213de4cb5f210869646431296d6fe1eafabfbcdba&oldPassengerStr=%E7%8E%8B%E5%B9%B3%2C1%2C5108***********138%2C1_%E4%BC%8D%E4%B8%BD%E5%8D%8E%2C1%2C5138***********223%2C1_%E7%8E%8B%E4%BF%AA%E8%93%89%2C1%2C5108***********141%2C3_&purpose_codes=00&key_check_isChange=C11E76F6B2C47C37CAF8BDF36E269642F376945E2C52CE4ACCDD2182&leftTicketStr=hm1jphajlnL%252B7BLsqLEnOA3ZKlsVcQyt3UkDQR5I%252FIMEcQ6fCW2Ds%252B%252BnagQ%253D&train_location=KA&choose_seats=&seatDetailType=000&is_jy=N&is_cj=Y&encryptedData=RHCH4iW2QBQ9FJeVHkZwmYght8E9L8kYMABVOR3VRun5yocNj4o1svkAT9EZwWrjbkfduHp5Ctv2Bz35foB3IBiV8o49PHEf720Ds1pEUlSJN0SJ_Z1QXlAA13iCnuDHT7XEqA5ed32lSwAbYw3hq.iqQcVr0PSzNlff8u7TGvzasffN.TTd5DUseUAvF.f.h6bu0xvcEqPMOaxI71YJCVFjWNeyDS75l1b262WL7pdG4tVLPvxyeO3seTUDs8wS_65iFy4kQ94k0A.L1vcXcyPdU26Kr5ST0Gc0S7ASST2ZYSBZz_9hoy5ydhsorQFLKPkbXS3PVZXi4yOEdJD.JWFm91KpRmw7urWsJfKwFlzfhBXUoHkCAWTaGf0iSNw.hqtxgKavBCu24WxIY6pGh392EteiFnl56Bby33C7n6Yt8RRYigizNQUyddTo2qqTX6Jea1UGN3RHCTssIj6nRsowC5zGAPvWvPed4qmQoiW0A2hS.zuvGOjMLwn6.Z.Cd8bgUIxydR2MOTet_hqlgS39PKDvOOzXvUbi_0Li8XDKs2OaSADACsquabtEt.tjqfdZbiJ7aHTDTHZDkcaF9_dgPxVvh6CkHH.wGIDR8Wdko3CBW4Afja1sa.wJJfr8633uSc_2mB0r25c7T7XYeCpS0VVt7y0mjdIhxpHbfqdd7tbV7ZBRjs3Co1zzcRRFqekxdJgW6f7P6LNAZEMM4ofBPPjPVLxfYIu_10S2Fe63U5C8wia.QPg44t5NS4gicaRfc4fkgPCr6uFjEsUH8KGt9pgHnKx7if_dd0td64SYcL2zLrl_kTMO.iG29siuJMmdHuahNW0Vva2nFInCzHNkvQA4JojMYlmS9ZYhPmR0kJBD7C2dsB7S.Ksq410_ZzCiqzIRyu.UeZDEjvMyPYfAdjzCpi8RmR7V_ZVTxEMJuBAPEcpQ9eFAmC1eckaMjBT6SpK9tAq64gfkkkoZ0Tm0.e_k3yqsc2VNokdWUA0qXuvYcnHVB0BM8kQJfIVumgtOAmplnYwaC8B4iExim0u1iyI7cBb00IKwKHliegZx2_vRrBGc4H3azVWtg2N9oEKmCkr64tuco_WkIKc2nj_6dmMRp.I4OhWvhpzbjBWQnYaL6d_kp4xc.YvBihHAByYtRuS8qWGzBskGwJHcdFarqPxePzNpwSRdknnPbHLMECjMJ4YTnq472Lah1dh6n4QZjW9GiNQQ1ltWBrJfCdo6E4p6W5JjPdBysQnOztqHoSGRkD6yQgprZpNGyXGqk5wCT3US4d3n0G9.n8zgi_ZNuFB2pccVlk85UumJwH7MXZo1h5.0b_4W58jKeQEjG3k0vqLYIar_PeaeK2Jvz0oPQbkY4jNYMqOp_WfJutOs9cQsXHot0uC2Lh6deLuSVpeLkPZQlwiQXDcbqKNHRQ_OC_J4vu.ejiGl.JthjGjdz7vG8BQSZCFGOv1f714Uah77Dul8NQg6VLuuS_YIrrIWSv.Ro1OgAPLwIn4VTrGbf0xoN0z_b7TA4H6ptFEpFaNeJzl5baupVfESuF.DuNCloethaD2gZ6ZN1Ec2jekvQiEOUdeNFcqgk5mvmI2wbnhReYgRUxcRKYP73Bdneetooh4sG8_YijV5wgjNDWfQMNyZgnJzt5zMYkZsR0Xe4FS.JZGYC2FxDmGU5vOFPFEgRse5F.HcQmrY39PMFJsbWITAscqSJVuMSZn219dbY1869WiA6WFlHOrx873a0Ez_wVive_Sg6ym8Iuv_3alDHYVr0DTMVDfqVF4w9ZvmbRd8YqHr.JmtEKt5JWXZJy97as1wWtq_.NJPW9Q078vcbl2Ge3.UYh9WtFG.j4uMIR64TFfay3V2VyDdD5b5.7PWr.TJeHJRSXd3gtNM6cOuC9zwvlrLYtJlxxzkeEMw0ly6MZMDCkfmB0p2GfyhTGX7SqXZaWa17xDE10drP0XAxBCJGxSe02LbfHxQkODmnqGZ5g4zdTKuK2ui.x_LlH7n.238mXrnm8eZVibuHoraKyZr7VSlPuurwR6XwjuwKaLPkPVWC5Qv4.PnmyH9i2ZCGJ9MDzfWETtRHCxgGb9wmV.igCX2R8vI1_iVvXHnzAEwNkp40QPK7YjnKuLMV4.LJeFuCYjOAaaW6tI1broFc53v0umFGUNLscXPTbps&whatsSelect=1&roomType=00&dwAll=N&_json_att=&REPEAT_SUBMIT_TOKEN=d7ee1af45789e4277c7d0476b7b87859",
-  "method": "POST"
+  "body": null,
+  "method": "GET"
 });
